@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MFC Formation</string>
+    <string name="app_slogan">Formez-vous aux métiers de demain</string>
+    <string name="our_formations">Nos formations</string>
+    <string name="register">S\'inscrire à cette formation</string>
+    <string name="formation_icon">Icône de formation</string>
+</resources>
